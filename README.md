@@ -59,7 +59,7 @@ https://endearing-starship-fe8800.netlify.app/
 ## Estrutura do Projeto
 
 - [`frontend/`](frontend/): Código fonte do front-end (React).
-- [`backend/`](backend/): Código fonte do back-end (Express.js).
+- [`backend/`](backend/): Código fonte do back-end (Node.js).
 - [`database/`](database/): Scripts e configurações do banco de dados (PostgreSQL).
 
 ## Tecnologias Utilizadas
